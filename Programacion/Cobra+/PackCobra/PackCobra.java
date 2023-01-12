@@ -38,4 +38,8 @@ public class PackCobra {
         sc.close();
         return potencia;
     }
+
+    public static double kWConsumidos(){
+        Scanner sc = new Scanner(System.in)
+    }
 }
